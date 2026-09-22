@@ -22,13 +22,6 @@ Frontend Engineer specializing in **geospatial data visualization** building dro
 
 ---
 
-### 📊 GitHub Stats
-
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur8933&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur8933&layout=compact)
-
----
-
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patil-mayur15)
